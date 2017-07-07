@@ -1,0 +1,1 @@
+wget -O conv3d_deepnetA_sport1m_iter_1900000_v1.1.caffemodel "https://cse.iitk.ac.in/users/samik/conv3d_deepnetA_sport1m_iter_1900000_v1.1.caffemodel"
